@@ -1,5 +1,0 @@
-if(EXISTS "D:/code/RayTracerChallenge/build/main_tests-b12d07c.cmake")
-  include("D:/code/RayTracerChallenge/build/main_tests-b12d07c.cmake")
-else()
-  add_test(main_NOT_BUILT-b12d07c main_NOT_BUILT-b12d07c)
-endif()

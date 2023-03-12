@@ -36,4 +36,4 @@
 *.ppm
 
 # Build folder
-./build/
+build/
