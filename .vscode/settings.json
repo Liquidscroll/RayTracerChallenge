@@ -1,0 +1,14 @@
+{
+    "cmake.configureOnOpen": false,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "cstddef": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "iosfwd": "cpp"
+    }
+}
