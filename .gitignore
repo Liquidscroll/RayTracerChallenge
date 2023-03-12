@@ -34,3 +34,6 @@
 
 # Images
 *.ppm
+
+# Build folder
+./build/
